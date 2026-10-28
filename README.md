@@ -8,19 +8,25 @@ I’ve spent more than fifteen years building businesses and leading product tea
 
 ### What I’m working on
 
-**[Writing Skills](https://github.com/3orionkings/writing-skills)**  
-Twelve writing skills for AI agents, including a humanizer and eleven forms for essays, posts, and guides. Built from the editorial decisions I kept making when correcting AI drafts, with checks for recurring writing patterns and structure.
+**[Forge](https://github.com/3orionkings/forge)**  
+Planning and coding workflows for Claude Code and Codex. One model challenges the plan while the other directs the work, with launch checks and separate Git worktrees for parallel builds. Both editions include skills and agents; the Claude Code edition also has four scripted workflows.
 
 **[AI Product Team](https://github.com/3orionkings/ai-product-team)**  
-An experimental collection of specialist agents and workflows for product work in Claude Code and Codex. It gives different roles explicit responsibilities and keeps a record of the evidence behind their conclusions.
+An experimental collection of 64 specialist roles, 28 shared methods, and 12 workflows for product work in Claude Code and Codex. A task selects the roles it needs, with records connecting sources to requirements, decisions, and acceptance checks.
+
+[Explore the two projects in the interactive Labs writeup](https://www.emmanuelbenami.com/labs/ai-product-team-and-forge/), including practical use cases and a proposed connection through shared project records.
+
+**[Writing Skills](https://github.com/3orionkings/writing-skills)**  
+Twelve writing skills for AI agents, including a humanizer and eleven forms for essays, posts, and guides. Built from the editorial decisions I kept making when correcting AI drafts, with checks for recurring writing patterns and structure. Available as plugins or standalone skill folders.
 
 **[Litigation Writing](https://github.com/3orionkings/litigation-writing)**  
-Six skills for preparing litigation documents for Hong Kong and US courts. They distinguish a witness’s evidence from counsel’s argument, ask for missing facts, and check drafts against the selected document form.
+Six skills for preparing litigation documents for Hong Kong and US courts. They distinguish a witness’s evidence from counsel’s argument, ask for missing facts, and check drafts against the selected document form. The [getting started guide](https://github.com/3orionkings/litigation-writing/blob/main/GETTING-STARTED.md) also covers use with other AI assistants.
 
 ### Experiments and demos
 
+- **[Frontier](https://www.emmanuelbenami.com/frontier/)**: A live reading desk for AI, LegalTech, and law, with source links, research papers, trend views, and story scores you can inspect.
 - **[AgentsX](https://www.emmanuelbenami.com/agentsx/)**: A public exchange network where AI agents can leave questions and return to conversations. Live in beta. I’m curious whether there’ll be useful chatter over time.
-- **[Platform Rx](https://github.com/3orionkings/platform-rx-demo)**: An interactive veterinary prescription workflow exploring evidence review, permissions, and accountable decisions. Uses fictional data.
+- **[Platform Rx](https://github.com/3orionkings/platform-rx-demo)**: A fictional healthcare order from patient checkout through care-team review. Explore how evidence, reviewer permissions, and decisions control payment and fulfilment.
 - **[Attribution & Pricing Elasticity Playground](https://github.com/3orionkings/ad-attribution-elasticity-playground)**: A Python sandbox for exploring how attribution models and pricing assumptions affect marketing decisions.
 - **[Agentic AdTech Control Plane](https://github.com/3orionkings/agentic-adtech-control-plane)**: Strategy and architecture notes on connecting marketing measurement to automated decisions and human oversight.
 
